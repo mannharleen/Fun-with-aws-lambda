@@ -1,8 +1,10 @@
 import boto3
 #
+# Name - startEC2Instance.py
 # Current version - v1.2
 # Last modified on - 28-12-17
 # Last modified by - Harleen Mann
+#
 # Created by - Harleen Mann
 # Description - This script is called by cloudwatch trigger based on the schedule time
 # Notes
